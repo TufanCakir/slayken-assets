@@ -1,123 +1,122 @@
 [
-    {
-      "id": "dungeonboss-001",
-      "name": "dungeonboss1",
-      "image": "dungeonboss1"
-    },
-    {
-      "id": "dungeonboss-002",
-      "name": "dungeonboss2",
-      "image": "dungeonboss2"
-    },
-    {
-      "id": "dungeonboss-003",
-      "name": "dungeonboss3",
-      "image": "dungeonboss3"
-    },
-    {
-      "id": "dungeonboss-004",
-      "name": "dungeonboss4",
-      "image": "dungeonboss4"
-    },
-    {
-      "id": "dungeonboss-005",
-      "name": "dungeonboss5",
-      "image": "dungeonboss5"
-    },
-    {
-      "id": "dungeonboss-006",
-      "name": "dungeonboss6",
-      "image": "dungeonboss6"
-    },
-    {
-      "id": "dungeonboss-007",
-      "name": "dungeonboss7",
-      "image": "dungeonboss7"
-    },
-    {
-      "id": "dungeonboss-008",
-      "name": "dungeonboss8",
-      "image": "dungeonboss8"
-    },
-    {
-      "id": "dungeonboss-009",
-      "name": "dungeonboss9",
-      "image": "dungeonboss9"
-    },
-    {
-      "id": "dungeonboss-010",
-      "name": "dungeonboss10",
-      "image": "dungeonboss10"
-    },
-    {
-      "id": "dungeonboss-011",
-      "name": "dungeonboss11",
-      "image": "dungeonboss11"
-    },
-    {
-      "id": "dungeonboss-012",
-      "name": "dungeonboss12",
-      "image": "dungeonboss12"
-    },
-    {
-      "id": "dungeonboss-013",
-      "name": "dungeonboss13",
-      "image": "dungeonboss13"
-    },
-    {
-      "id": "dungeonboss-014",
-      "name": "dungeonboss14",
-      "image": "dungeonboss14"
-    },
-    {
-      "id": "dungeonboss-015",
-      "name": "dungeonboss15",
-      "image": "dungeonboss15"
-    },
-    {
-      "id": "dungeonboss-016",
-      "name": "dungeonboss16",
-      "image": "dungeonboss16"
-    },
-    {
-      "id": "dungeonboss-017",
-      "name": "dungeonboss17",
-      "image": "dungeonboss17"
-    },
-    {
-      "id": "dungeonboss-018",
-      "name": "dungeonboss18",
-      "image": "dungeonboss18"
-    },
-    {
-      "id": "dungeonboss-019",
-      "name": "dungeonboss19",
-      "image": "dungeonboss19"
-    },
-    {
-      "id": "dungeonboss-020",
-      "name": "dungeonboss20",
-      "image": "dungeonboss20"
-    },
-    {
-      "id": "dungeonboss-021",
-      "name": "dungeonboss21",
-      "image": "dungeonboss21"
-    },
-    {
-      "id": "dungeonboss-022",
-      "name": "dungeonboss22",
-      "image": "dungeonboss22"
-    },
-    {
-      "id": "dungeonboss-023",
-      "name": "dungeonboss23",
-      "image": "dungeonboss23"
-    },
-    {
-      "id": "dungeonboss-024",
-      "name": "dungeonboss24",
-      "image": "dungeonboss24"
-    }
-  ]
-  
+  {
+    "id": "dungeonboss-001",
+    "name": "dungeonboss1",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss1.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-002",
+    "name": "dungeonboss2",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss2.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-003",
+    "name": "dungeonboss3",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss3.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-004",
+    "name": "dungeonboss4",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss4.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-005",
+    "name": "dungeonboss5",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss5.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-006",
+    "name": "dungeonboss6",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss6.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-007",
+    "name": "dungeonboss7",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss7.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-008",
+    "name": "dungeonboss8",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss8.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-009",
+    "name": "dungeonboss9",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss9.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-010",
+    "name": "dungeonboss10",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss10.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-011",
+    "name": "dungeonboss11",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss11.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-012",
+    "name": "dungeonboss12",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss12.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-013",
+    "name": "dungeonboss13",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss13.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-014",
+    "name": "dungeonboss14",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss14.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-015",
+    "name": "dungeonboss15",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss15.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-016",
+    "name": "dungeonboss16",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss16.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-017",
+    "name": "dungeonboss17",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss17.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-018",
+    "name": "dungeonboss18",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss18.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-019",
+    "name": "dungeonboss19",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss19.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-020",
+    "name": "dungeonboss20",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss20.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-021",
+    "name": "dungeonboss21",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss21.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-022",
+    "name": "dungeonboss22",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss22.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-023",
+    "name": "dungeonboss23",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss23.png?raw=true"
+  },
+  {
+    "id": "dungeonboss-024",
+    "name": "dungeonboss24",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/bosses/dungeonBoss/dungeonboss24.png?raw=true"
+  }
+]
