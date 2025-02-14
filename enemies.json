@@ -1,0 +1,177 @@
+[
+    {
+      "id": "enemy-001",
+      "name": "enemy1",
+      "image": "enemy1",
+      "imageNoBg": "enemy1-nbg"
+    },
+    {
+      "id": "enemy-002",
+      "name": "enemy2",
+      "image": "enemy2",
+      "imageNoBg": "enemy2-nbg"
+    },
+    {
+      "id": "enemy-003",
+      "name": "enemy3",
+      "image": "enemy3",
+      "imageNoBg": "enemy3-nbg"
+    },
+    {
+      "id": "enemy-004",
+      "name": "enemy4",
+      "image": "enemy4",
+      "imageNoBg": "enemy4-nbg"
+    },
+    {
+      "id": "enemy-005",
+      "name": "enemy5",
+      "image": "enemy5",
+      "imageNoBg": "enemy5-nbg"
+    },
+    {
+      "id": "enemy-006",
+      "name": "enemy6",
+      "image": "enemy6",
+      "imageNoBg": "enemy6-nbg"
+    },
+    {
+      "id": "enemy-007",
+      "name": "enemy7",
+      "image": "enemy7",
+      "imageNoBg": "enemy7-nbg"
+    },
+    {
+      "id": "enemy-008",
+      "name": "enemy8",
+      "image": "enemy8",
+      "imageNoBg": "enemy8-nbg"
+    },
+    {
+      "id": "enemy-009",
+      "name": "enemy9",
+      "image": "enemy9",
+      "imageNoBg": "enemy9-nbg"
+    },
+    {
+      "id": "enemy-010",
+      "name": "enemy10",
+      "image": "enemy10",
+      "imageNoBg": "enemy10-nbg"
+    },
+    {
+      "id": "enemy-011",
+      "name": "enemy11",
+      "image": "enemy11",
+      "imageNoBg": "enemy11-nbg"
+    },
+    {
+      "id": "enemy-012",
+      "name": "enemy12",
+      "image": "enemy12",
+      "imageNoBg": "enemy12-nbg"
+    },
+    {
+      "id": "enemy-013",
+      "name": "enemy13",
+      "image": "enemy13",
+      "imageNoBg": "enemy13-nbg"
+    },
+    {
+      "id": "enemy-014",
+      "name": "enemy14",
+      "image": "enemy14",
+      "imageNoBg": "enemy14-nbg"
+    },
+    {
+      "id": "enemy-015",
+      "name": "enemy15",
+      "image": "enemy15",
+      "imageNoBg": "enemy15-nbg"
+    },
+    {
+      "id": "enemy-016",
+      "name": "enemy16",
+      "image": "enemy16",
+      "imageNoBg": "enemy16-nbg"
+    },
+    {
+      "id": "enemy-017",
+      "name": "enemy17",
+      "image": "enemy17",
+      "imageNoBg": "enemy17-nbg"
+    },
+    {
+      "id": "enemy-018",
+      "name": "enemy18",
+      "image": "enemy18",
+      "imageNoBg": "enemy18-nbg"
+    },
+    {
+      "id": "enemy-019",
+      "name": "enemy19",
+      "image": "enemy19",
+      "imageNoBg": "enemy19-nbg"
+    },
+    {
+      "id": "enemy-020",
+      "name": "enemy20",
+      "image": "enemy20",
+      "imageNoBg": "enemy20-nbg"
+    },
+    {
+      "id": "enemy-021",
+      "name": "enemy21",
+      "image": "enemy21",
+      "imageNoBg": "enemy21-nbg"
+    },
+    {
+      "id": "enemy-022",
+      "name": "enemy22",
+      "image": "enemy22",
+      "imageNoBg": "enemy22-nbg"
+    },
+    {
+      "id": "enemy-023",
+      "name": "enemy23",
+      "image": "enemy23",
+      "imageNoBg": "enemy23-nbg"
+    },
+    {
+      "id": "enemy-024",
+      "name": "enemy24",
+      "image": "enemy24",
+      "imageNoBg": "enemy24-nbg"
+    },
+    {
+      "id": "enemy-025",
+      "name": "enemy25",
+      "image": "enemy25",
+      "imageNoBg": "enemy25-nbg"
+    },
+    {
+      "id": "enemy-026",
+      "name": "enemy26",
+      "image": "enemy26",
+      "imageNoBg": "enemy26-nbg"
+    },
+    {
+      "id": "enemy-027",
+      "name": "enemy27",
+      "image": "enemy27",
+      "imageNoBg": "enemy27-nbg"
+    },
+    {
+      "id": "enemy-028",
+      "name": "enemy28",
+      "image": "enemy28",
+      "imageNoBg": "enemy28-nbg"
+    },
+    {
+      "id": "enemy-029",
+      "name": "enemy29",
+      "image": "enemy29",
+      "imageNoBg": "enemy29-nbg"
+    }
+  ]
+  

@@ -1,0 +1,525 @@
+[
+    {
+      "id": "player-001",
+      "name": "player1",
+      "image": "player1",
+      "imageNoBg": "player1-nobg"
+    },
+    {
+      "id": "player-002",
+      "name": "player2",
+      "image": "player2",
+      "imageNoBg": "player2-nobg"
+    },
+    {
+      "id": "player-003",
+      "name": "player3",
+      "image": "player3",
+      "imageNoBg": "player3-nobg"
+    },
+    {
+      "id": "player-004",
+      "name": "player4",
+      "image": "player4",
+      "imageNoBg": "player4-nobg"
+    },
+    {
+      "id": "player-005",
+      "name": "player5",
+      "image": "player5",
+      "imageNoBg": "player5-nobg"
+    },
+    {
+      "id": "player-006",
+      "name": "player6",
+      "image": "player6",
+      "imageNoBg": "player6-nobg"
+    },
+    {
+      "id": "player-007",
+      "name": "player7",
+      "image": "player7",
+      "imageNoBg": "player7-nobg"
+    },
+    {
+      "id": "player-008",
+      "name": "player8",
+      "image": "player8",
+      "imageNoBg": "player8-nobg"
+    },
+    {
+      "id": "player-009",
+      "name": "player9",
+      "image": "player9",
+      "imageNoBg": "player9-nobg"
+    },
+    {
+      "id": "player-010",
+      "name": "player10",
+      "image": "player10",
+      "imageNoBg": "player10-nobg"
+    },
+    {
+      "id": "player-011",
+      "name": "player11",
+      "image": "player11",
+      "imageNoBg": "player11-nobg"
+    },
+    {
+      "id": "player-012",
+      "name": "player12",
+      "image": "player12",
+      "imageNoBg": "player12-nobg"
+    },
+    {
+      "id": "player-013",
+      "name": "player13",
+      "image": "player13",
+      "imageNoBg": "player13-nobg"
+    },
+    {
+      "id": "player-014",
+      "name": "player14",
+      "image": "player14",
+      "imageNoBg": "player14-nobg"
+    },
+    {
+      "id": "player-015",
+      "name": "player15",
+      "image": "player15",
+      "imageNoBg": "player15-nobg"
+    },
+    {
+      "id": "player-016",
+      "name": "player16",
+      "image": "player16",
+      "imageNoBg": "player16-nobg"
+    },
+    {
+      "id": "player-017",
+      "name": "player17",
+      "image": "player17",
+      "imageNoBg": "player17-nobg"
+    },
+    {
+      "id": "player-018",
+      "name": "player18",
+      "image": "player18",
+      "imageNoBg": "player18-nobg"
+    },
+    {
+      "id": "player-019",
+      "name": "player19",
+      "image": "player19",
+      "imageNoBg": "player19-nobg"
+    },
+    {
+      "id": "player-020",
+      "name": "player20",
+      "image": "player20",
+      "imageNoBg": "player20-nobg"
+    },
+    {
+      "id": "player-021",
+      "name": "player21",
+      "image": "player21",
+      "imageNoBg": "player21-nobg"
+    },
+    {
+      "id": "player-022",
+      "name": "player22",
+      "image": "player22",
+      "imageNoBg": "player22-nobg"
+    },
+    {
+      "id": "player-023",
+      "name": "player23",
+      "image": "player23",
+      "imageNoBg": "player23-nobg"
+    },
+    {
+      "id": "player-024",
+      "name": "player24",
+      "image": "player24",
+      "imageNoBg": "player24-nobg"
+    },
+    {
+      "id": "player-025",
+      "name": "player25",
+      "image": "player25",
+      "imageNoBg": "player25-nobg"
+    },
+    {
+      "id": "player-026",
+      "name": "player26",
+      "image": "player26",
+      "imageNoBg": "player26-nobg"
+    },
+    {
+      "id": "player-027",
+      "name": "player27",
+      "image": "player27",
+      "imageNoBg": "player27-nobg"
+    },
+    {
+      "id": "player-028",
+      "name": "player28",
+      "image": "player28",
+      "imageNoBg": "player28-nobg"
+    },
+    {
+      "id": "player-029",
+      "name": "player29",
+      "image": "player29",
+      "imageNoBg": "player29-nobg"
+    },
+    {
+      "id": "player-030",
+      "name": "player30",
+      "image": "player30",
+      "imageNoBg": "player30-nobg"
+    },
+    {
+      "id": "player-031",
+      "name": "player31",
+      "image": "player31",
+      "imageNoBg": "player31-nobg"
+    },
+    {
+      "id": "player-032",
+      "name": "player32",
+      "image": "player32",
+      "imageNoBg": "player32-nobg"
+    },
+    {
+      "id": "player-033",
+      "name": "player33",
+      "image": "player33",
+      "imageNoBg": "player33-nobg"
+    },
+    {
+      "id": "player-034",
+      "name": "player34",
+      "image": "player34",
+      "imageNoBg": "player34-nobg"
+    },
+    {
+      "id": "player-035",
+      "name": "player35",
+      "image": "player35",
+      "imageNoBg": "player35-nobg"
+    },
+    {
+      "id": "player-036",
+      "name": "player36",
+      "image": "player36",
+      "imageNoBg": "player36-nobg"
+    },
+    {
+      "id": "player-037",
+      "name": "player37",
+      "image": "player37",
+      "imageNoBg": "player37-nobg"
+    },
+    {
+      "id": "player-038",
+      "name": "player38",
+      "image": "player38",
+      "imageNoBg": "player38-nobg"
+    },
+    {
+      "id": "player-039",
+      "name": "player39",
+      "image": "player39",
+      "imageNoBg": "player39-nobg"
+    },
+    {
+      "id": "player-040",
+      "name": "player40",
+      "image": "player40",
+      "imageNoBg": "player40-nobg"
+    },
+    {
+      "id": "player-041",
+      "name": "player41",
+      "image": "player41",
+      "imageNoBg": "player41-nobg"
+    },
+    {
+      "id": "player-042",
+      "name": "player42",
+      "image": "player42",
+      "imageNoBg": "player42-nobg"
+    },
+    {
+      "id": "player-043",
+      "name": "player43",
+      "image": "player43",
+      "imageNoBg": "player43-nobg"
+    },
+    {
+      "id": "player-044",
+      "name": "player44",
+      "image": "player44",
+      "imageNoBg": "player44-nobg"
+    },
+    {
+      "id": "player-045",
+      "name": "player45",
+      "image": "player45",
+      "imageNoBg": "player45-nobg"
+    },
+    {
+      "id": "player-046",
+      "name": "player46",
+      "image": "player46",
+      "imageNoBg": "player46-nobg"
+    },
+    {
+      "id": "player-047",
+      "name": "player47",
+      "image": "player47",
+      "imageNoBg": "player47-nobg"
+    },
+    {
+      "id": "player-048",
+      "name": "player48",
+      "image": "player48",
+      "imageNoBg": "player48-nobg"
+    },
+    {
+      "id": "player-049",
+      "name": "player49",
+      "image": "player49",
+      "imageNoBg": "player49-nobg"
+    },
+    {
+      "id": "player-050",
+      "name": "player50",
+      "image": "player50",
+      "imageNoBg": "player50-nobg"
+    },
+    {
+      "id": "player-051",
+      "name": "player51",
+      "image": "player51",
+      "imageNoBg": "player51-nobg"
+    },
+    {
+      "id": "player-052",
+      "name": "player52",
+      "image": "player52",
+      "imageNoBg": "player52-nobg"
+    },
+    {
+      "id": "player-053",
+      "name": "player53",
+      "image": "player53",
+      "imageNoBg": "player53-nobg"
+    },
+    {
+      "id": "player-054",
+      "name": "player54",
+      "image": "player54",
+      "imageNoBg": "player54-nobg"
+    },
+    {
+      "id": "player-055",
+      "name": "player55",
+      "image": "player55",
+      "imageNoBg": "player55-nobg"
+    },
+    {
+      "id": "player-056",
+      "name": "player56",
+      "image": "player56",
+      "imageNoBg": "player56-nobg"
+    },
+    {
+      "id": "player-057",
+      "name": "player57",
+      "image": "player57",
+      "imageNoBg": "player57-nobg"
+    },
+    {
+      "id": "player-058",
+      "name": "player58",
+      "image": "player58",
+      "imageNoBg": "player58-nobg"
+    },
+    {
+      "id": "player-059",
+      "name": "player59",
+      "image": "player59",
+      "imageNoBg": "player59-nobg"
+    },
+    {
+      "id": "player-060",
+      "name": "player60",
+      "image": "player60",
+      "imageNoBg": "player60-nobg"
+    },
+    {
+      "id": "player-061",
+      "name": "player61",
+      "image": "player61",
+      "imageNoBg": "player61-nobg"
+    },
+    {
+      "id": "player-062",
+      "name": "player62",
+      "image": "player62",
+      "imageNoBg": "player62-nobg"
+    },
+    {
+      "id": "player-063",
+      "name": "player63",
+      "image": "player63",
+      "imageNoBg": "player63-nobg"
+    },
+    {
+      "id": "player-064",
+      "name": "player64",
+      "image": "player64",
+      "imageNoBg": "player64-nobg"
+    },
+    {
+      "id": "player-065",
+      "name": "player65",
+      "image": "player65",
+      "imageNoBg": "player65-nobg"
+    },
+    {
+      "id": "player-066",
+      "name": "player66",
+      "image": "player66",
+      "imageNoBg": "player66-nobg"
+    },
+    {
+      "id": "player-067",
+      "name": "player67",
+      "image": "player67",
+      "imageNoBg": "player67-nobg"
+    },
+    {
+      "id": "player-068",
+      "name": "player68",
+      "image": "player68",
+      "imageNoBg": "player68-nobg"
+    },
+    {
+      "id": "player-069",
+      "name": "player69",
+      "image": "player69",
+      "imageNoBg": "player69-nobg"
+    },
+    {
+      "id": "player-070",
+      "name": "player70",
+      "image": "player70",
+      "imageNoBg": "player70-nobg"
+    },
+    {
+      "id": "player-071",
+      "name": "player71",
+      "image": "player71",
+      "imageNoBg": "player71-nobg"
+    },
+    {
+      "id": "player-072",
+      "name": "player72",
+      "image": "player72",
+      "imageNoBg": "player72-nobg"
+    },
+    {
+      "id": "player-073",
+      "name": "player73",
+      "image": "player73",
+      "imageNoBg": "player73-nobg"
+    },
+    {
+      "id": "player-074",
+      "name": "player74",
+      "image": "player74",
+      "imageNoBg": "player74-nobg"
+    },
+    {
+      "id": "player-075",
+      "name": "player75",
+      "image": "player75",
+      "imageNoBg": "player75-nobg"
+    },
+    {
+      "id": "player-076",
+      "name": "player76",
+      "image": "player76",
+      "imageNoBg": "player76-nobg"
+    },
+    {
+      "id": "player-077",
+      "name": "player77",
+      "image": "player77",
+      "imageNoBg": "player77-nobg"
+    },
+    {
+      "id": "player-078",
+      "name": "player78",
+      "image": "player78",
+      "imageNoBg": "player78-nobg"
+    },
+    {
+      "id": "player-079",
+      "name": "player79",
+      "image": "player79",
+      "imageNoBg": "player79-nobg"
+    },
+    {
+      "id": "player-080",
+      "name": "player80",
+      "image": "player80",
+      "imageNoBg": "player80-nobg"
+    },
+    {
+      "id": "player-081",
+      "name": "player81",
+      "image": "player81",
+      "imageNoBg": "player81-nobg"
+    },
+    {
+      "id": "player-082",
+      "name": "player82",
+      "image": "player82",
+      "imageNoBg": "player82-nobg"
+    },
+    {
+      "id": "player-083",
+      "name": "player83",
+      "image": "player83",
+      "imageNoBg": "player83-nobg"
+    },
+    {
+      "id": "player-084",
+      "name": "player84",
+      "image": "player84",
+      "imageNoBg": "player84-nobg"
+    },
+    {
+      "id": "player-085",
+      "name": "player85",
+      "image": "player85",
+      "imageNoBg": "player85-nobg"
+    },
+    {
+      "id": "player-086",
+      "name": "player86",
+      "image": "player86",
+      "imageNoBg": "player86-nobg"
+    },
+    {
+      "id": "player-087",
+      "name": "player87",
+      "image": "player87",
+      "imageNoBg": "player87-nobg"
+    }
+  ]
+  
