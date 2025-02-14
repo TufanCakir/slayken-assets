@@ -1,177 +1,176 @@
 [
-    {
-      "id": "enemy-001",
-      "name": "enemy1",
-      "image": "enemy1",
-      "imageNoBg": "enemy1-nbg"
-    },
-    {
-      "id": "enemy-002",
-      "name": "enemy2",
-      "image": "enemy2",
-      "imageNoBg": "enemy2-nbg"
-    },
-    {
-      "id": "enemy-003",
-      "name": "enemy3",
-      "image": "enemy3",
-      "imageNoBg": "enemy3-nbg"
-    },
-    {
-      "id": "enemy-004",
-      "name": "enemy4",
-      "image": "enemy4",
-      "imageNoBg": "enemy4-nbg"
-    },
-    {
-      "id": "enemy-005",
-      "name": "enemy5",
-      "image": "enemy5",
-      "imageNoBg": "enemy5-nbg"
-    },
-    {
-      "id": "enemy-006",
-      "name": "enemy6",
-      "image": "enemy6",
-      "imageNoBg": "enemy6-nbg"
-    },
-    {
-      "id": "enemy-007",
-      "name": "enemy7",
-      "image": "enemy7",
-      "imageNoBg": "enemy7-nbg"
-    },
-    {
-      "id": "enemy-008",
-      "name": "enemy8",
-      "image": "enemy8",
-      "imageNoBg": "enemy8-nbg"
-    },
-    {
-      "id": "enemy-009",
-      "name": "enemy9",
-      "image": "enemy9",
-      "imageNoBg": "enemy9-nbg"
-    },
-    {
-      "id": "enemy-010",
-      "name": "enemy10",
-      "image": "enemy10",
-      "imageNoBg": "enemy10-nbg"
-    },
-    {
-      "id": "enemy-011",
-      "name": "enemy11",
-      "image": "enemy11",
-      "imageNoBg": "enemy11-nbg"
-    },
-    {
-      "id": "enemy-012",
-      "name": "enemy12",
-      "image": "enemy12",
-      "imageNoBg": "enemy12-nbg"
-    },
-    {
-      "id": "enemy-013",
-      "name": "enemy13",
-      "image": "enemy13",
-      "imageNoBg": "enemy13-nbg"
-    },
-    {
-      "id": "enemy-014",
-      "name": "enemy14",
-      "image": "enemy14",
-      "imageNoBg": "enemy14-nbg"
-    },
-    {
-      "id": "enemy-015",
-      "name": "enemy15",
-      "image": "enemy15",
-      "imageNoBg": "enemy15-nbg"
-    },
-    {
-      "id": "enemy-016",
-      "name": "enemy16",
-      "image": "enemy16",
-      "imageNoBg": "enemy16-nbg"
-    },
-    {
-      "id": "enemy-017",
-      "name": "enemy17",
-      "image": "enemy17",
-      "imageNoBg": "enemy17-nbg"
-    },
-    {
-      "id": "enemy-018",
-      "name": "enemy18",
-      "image": "enemy18",
-      "imageNoBg": "enemy18-nbg"
-    },
-    {
-      "id": "enemy-019",
-      "name": "enemy19",
-      "image": "enemy19",
-      "imageNoBg": "enemy19-nbg"
-    },
-    {
-      "id": "enemy-020",
-      "name": "enemy20",
-      "image": "enemy20",
-      "imageNoBg": "enemy20-nbg"
-    },
-    {
-      "id": "enemy-021",
-      "name": "enemy21",
-      "image": "enemy21",
-      "imageNoBg": "enemy21-nbg"
-    },
-    {
-      "id": "enemy-022",
-      "name": "enemy22",
-      "image": "enemy22",
-      "imageNoBg": "enemy22-nbg"
-    },
-    {
-      "id": "enemy-023",
-      "name": "enemy23",
-      "image": "enemy23",
-      "imageNoBg": "enemy23-nbg"
-    },
-    {
-      "id": "enemy-024",
-      "name": "enemy24",
-      "image": "enemy24",
-      "imageNoBg": "enemy24-nbg"
-    },
-    {
-      "id": "enemy-025",
-      "name": "enemy25",
-      "image": "enemy25",
-      "imageNoBg": "enemy25-nbg"
-    },
-    {
-      "id": "enemy-026",
-      "name": "enemy26",
-      "image": "enemy26",
-      "imageNoBg": "enemy26-nbg"
-    },
-    {
-      "id": "enemy-027",
-      "name": "enemy27",
-      "image": "enemy27",
-      "imageNoBg": "enemy27-nbg"
-    },
-    {
-      "id": "enemy-028",
-      "name": "enemy28",
-      "image": "enemy28",
-      "imageNoBg": "enemy28-nbg"
-    },
-    {
-      "id": "enemy-029",
-      "name": "enemy29",
-      "image": "enemy29",
-      "imageNoBg": "enemy29-nbg"
-    }
-  ]
-  
+  {
+    "id": "enemy-001",
+    "name": "enemy1",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy1.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy1-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-002",
+    "name": "enemy2",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy2.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy2-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-003",
+    "name": "enemy3",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy3.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy3-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-004",
+    "name": "enemy4",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy4.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy4-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-005",
+    "name": "enemy5",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy5.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy5-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-006",
+    "name": "enemy6",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy6.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy6-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-007",
+    "name": "enemy7",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy7.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy7-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-008",
+    "name": "enemy8",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy8.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy8-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-009",
+    "name": "enemy9",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy9.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy9-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-010",
+    "name": "enemy10",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy10.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy10-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-011",
+    "name": "enemy11",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy11.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy11-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-012",
+    "name": "enemy12",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy12.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy12-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-013",
+    "name": "enemy13",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy13.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy13-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-014",
+    "name": "enemy14",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy14.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy14-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-015",
+    "name": "enemy15",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy15.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy15-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-016",
+    "name": "enemy16",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy16.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy16-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-017",
+    "name": "enemy17",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy17.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy17-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-018",
+    "name": "enemy18",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy18.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy18-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-019",
+    "name": "enemy19",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy19.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy19-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-020",
+    "name": "enemy20",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy20.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy20-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-021",
+    "name": "enemy21",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy21.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy21-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-022",
+    "name": "enemy22",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy22.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy22-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-023",
+    "name": "enemy23",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy23.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy23-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-024",
+    "name": "enemy24",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy24.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy24-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-025",
+    "name": "enemy25",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy25.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy25-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-026",
+    "name": "enemy26",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy26.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy26-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-027",
+    "name": "enemy27",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy27.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy27-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-028",
+    "name": "enemy28",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy28.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy28-nobg.png?raw=true"
+  },
+  {
+    "id": "enemy-029",
+    "name": "enemy29",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/withBackground/enemy29.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/enemys/noBackground/enemy29-nobg.png?raw=true"
+  }
+]
