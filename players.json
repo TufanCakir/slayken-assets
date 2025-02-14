@@ -1,525 +1,524 @@
 [
-    {
-      "id": "player-001",
-      "name": "player1",
-      "image": "player1",
-      "imageNoBg": "player1-nobg"
-    },
-    {
-      "id": "player-002",
-      "name": "player2",
-      "image": "player2",
-      "imageNoBg": "player2-nobg"
-    },
-    {
-      "id": "player-003",
-      "name": "player3",
-      "image": "player3",
-      "imageNoBg": "player3-nobg"
-    },
-    {
-      "id": "player-004",
-      "name": "player4",
-      "image": "player4",
-      "imageNoBg": "player4-nobg"
-    },
-    {
-      "id": "player-005",
-      "name": "player5",
-      "image": "player5",
-      "imageNoBg": "player5-nobg"
-    },
-    {
-      "id": "player-006",
-      "name": "player6",
-      "image": "player6",
-      "imageNoBg": "player6-nobg"
-    },
-    {
-      "id": "player-007",
-      "name": "player7",
-      "image": "player7",
-      "imageNoBg": "player7-nobg"
-    },
-    {
-      "id": "player-008",
-      "name": "player8",
-      "image": "player8",
-      "imageNoBg": "player8-nobg"
-    },
-    {
-      "id": "player-009",
-      "name": "player9",
-      "image": "player9",
-      "imageNoBg": "player9-nobg"
-    },
-    {
-      "id": "player-010",
-      "name": "player10",
-      "image": "player10",
-      "imageNoBg": "player10-nobg"
-    },
-    {
-      "id": "player-011",
-      "name": "player11",
-      "image": "player11",
-      "imageNoBg": "player11-nobg"
-    },
-    {
-      "id": "player-012",
-      "name": "player12",
-      "image": "player12",
-      "imageNoBg": "player12-nobg"
-    },
-    {
-      "id": "player-013",
-      "name": "player13",
-      "image": "player13",
-      "imageNoBg": "player13-nobg"
-    },
-    {
-      "id": "player-014",
-      "name": "player14",
-      "image": "player14",
-      "imageNoBg": "player14-nobg"
-    },
-    {
-      "id": "player-015",
-      "name": "player15",
-      "image": "player15",
-      "imageNoBg": "player15-nobg"
-    },
-    {
-      "id": "player-016",
-      "name": "player16",
-      "image": "player16",
-      "imageNoBg": "player16-nobg"
-    },
-    {
-      "id": "player-017",
-      "name": "player17",
-      "image": "player17",
-      "imageNoBg": "player17-nobg"
-    },
-    {
-      "id": "player-018",
-      "name": "player18",
-      "image": "player18",
-      "imageNoBg": "player18-nobg"
-    },
-    {
-      "id": "player-019",
-      "name": "player19",
-      "image": "player19",
-      "imageNoBg": "player19-nobg"
-    },
-    {
-      "id": "player-020",
-      "name": "player20",
-      "image": "player20",
-      "imageNoBg": "player20-nobg"
-    },
-    {
-      "id": "player-021",
-      "name": "player21",
-      "image": "player21",
-      "imageNoBg": "player21-nobg"
-    },
-    {
-      "id": "player-022",
-      "name": "player22",
-      "image": "player22",
-      "imageNoBg": "player22-nobg"
-    },
-    {
-      "id": "player-023",
-      "name": "player23",
-      "image": "player23",
-      "imageNoBg": "player23-nobg"
-    },
-    {
-      "id": "player-024",
-      "name": "player24",
-      "image": "player24",
-      "imageNoBg": "player24-nobg"
-    },
-    {
-      "id": "player-025",
-      "name": "player25",
-      "image": "player25",
-      "imageNoBg": "player25-nobg"
-    },
-    {
-      "id": "player-026",
-      "name": "player26",
-      "image": "player26",
-      "imageNoBg": "player26-nobg"
-    },
-    {
-      "id": "player-027",
-      "name": "player27",
-      "image": "player27",
-      "imageNoBg": "player27-nobg"
-    },
-    {
-      "id": "player-028",
-      "name": "player28",
-      "image": "player28",
-      "imageNoBg": "player28-nobg"
-    },
-    {
-      "id": "player-029",
-      "name": "player29",
-      "image": "player29",
-      "imageNoBg": "player29-nobg"
-    },
-    {
-      "id": "player-030",
-      "name": "player30",
-      "image": "player30",
-      "imageNoBg": "player30-nobg"
-    },
-    {
-      "id": "player-031",
-      "name": "player31",
-      "image": "player31",
-      "imageNoBg": "player31-nobg"
-    },
-    {
-      "id": "player-032",
-      "name": "player32",
-      "image": "player32",
-      "imageNoBg": "player32-nobg"
-    },
-    {
-      "id": "player-033",
-      "name": "player33",
-      "image": "player33",
-      "imageNoBg": "player33-nobg"
-    },
-    {
-      "id": "player-034",
-      "name": "player34",
-      "image": "player34",
-      "imageNoBg": "player34-nobg"
-    },
-    {
-      "id": "player-035",
-      "name": "player35",
-      "image": "player35",
-      "imageNoBg": "player35-nobg"
-    },
-    {
-      "id": "player-036",
-      "name": "player36",
-      "image": "player36",
-      "imageNoBg": "player36-nobg"
-    },
-    {
-      "id": "player-037",
-      "name": "player37",
-      "image": "player37",
-      "imageNoBg": "player37-nobg"
-    },
-    {
-      "id": "player-038",
-      "name": "player38",
-      "image": "player38",
-      "imageNoBg": "player38-nobg"
-    },
-    {
-      "id": "player-039",
-      "name": "player39",
-      "image": "player39",
-      "imageNoBg": "player39-nobg"
-    },
-    {
-      "id": "player-040",
-      "name": "player40",
-      "image": "player40",
-      "imageNoBg": "player40-nobg"
-    },
-    {
-      "id": "player-041",
-      "name": "player41",
-      "image": "player41",
-      "imageNoBg": "player41-nobg"
-    },
-    {
-      "id": "player-042",
-      "name": "player42",
-      "image": "player42",
-      "imageNoBg": "player42-nobg"
-    },
-    {
-      "id": "player-043",
-      "name": "player43",
-      "image": "player43",
-      "imageNoBg": "player43-nobg"
-    },
-    {
-      "id": "player-044",
-      "name": "player44",
-      "image": "player44",
-      "imageNoBg": "player44-nobg"
-    },
-    {
-      "id": "player-045",
-      "name": "player45",
-      "image": "player45",
-      "imageNoBg": "player45-nobg"
-    },
-    {
-      "id": "player-046",
-      "name": "player46",
-      "image": "player46",
-      "imageNoBg": "player46-nobg"
-    },
-    {
-      "id": "player-047",
-      "name": "player47",
-      "image": "player47",
-      "imageNoBg": "player47-nobg"
-    },
-    {
-      "id": "player-048",
-      "name": "player48",
-      "image": "player48",
-      "imageNoBg": "player48-nobg"
-    },
-    {
-      "id": "player-049",
-      "name": "player49",
-      "image": "player49",
-      "imageNoBg": "player49-nobg"
-    },
-    {
-      "id": "player-050",
-      "name": "player50",
-      "image": "player50",
-      "imageNoBg": "player50-nobg"
-    },
-    {
-      "id": "player-051",
-      "name": "player51",
-      "image": "player51",
-      "imageNoBg": "player51-nobg"
-    },
-    {
-      "id": "player-052",
-      "name": "player52",
-      "image": "player52",
-      "imageNoBg": "player52-nobg"
-    },
-    {
-      "id": "player-053",
-      "name": "player53",
-      "image": "player53",
-      "imageNoBg": "player53-nobg"
-    },
-    {
-      "id": "player-054",
-      "name": "player54",
-      "image": "player54",
-      "imageNoBg": "player54-nobg"
-    },
-    {
-      "id": "player-055",
-      "name": "player55",
-      "image": "player55",
-      "imageNoBg": "player55-nobg"
-    },
-    {
-      "id": "player-056",
-      "name": "player56",
-      "image": "player56",
-      "imageNoBg": "player56-nobg"
-    },
-    {
-      "id": "player-057",
-      "name": "player57",
-      "image": "player57",
-      "imageNoBg": "player57-nobg"
-    },
-    {
-      "id": "player-058",
-      "name": "player58",
-      "image": "player58",
-      "imageNoBg": "player58-nobg"
-    },
-    {
-      "id": "player-059",
-      "name": "player59",
-      "image": "player59",
-      "imageNoBg": "player59-nobg"
-    },
-    {
-      "id": "player-060",
-      "name": "player60",
-      "image": "player60",
-      "imageNoBg": "player60-nobg"
-    },
-    {
-      "id": "player-061",
-      "name": "player61",
-      "image": "player61",
-      "imageNoBg": "player61-nobg"
-    },
-    {
-      "id": "player-062",
-      "name": "player62",
-      "image": "player62",
-      "imageNoBg": "player62-nobg"
-    },
-    {
-      "id": "player-063",
-      "name": "player63",
-      "image": "player63",
-      "imageNoBg": "player63-nobg"
-    },
-    {
-      "id": "player-064",
-      "name": "player64",
-      "image": "player64",
-      "imageNoBg": "player64-nobg"
-    },
-    {
-      "id": "player-065",
-      "name": "player65",
-      "image": "player65",
-      "imageNoBg": "player65-nobg"
-    },
-    {
-      "id": "player-066",
-      "name": "player66",
-      "image": "player66",
-      "imageNoBg": "player66-nobg"
-    },
-    {
-      "id": "player-067",
-      "name": "player67",
-      "image": "player67",
-      "imageNoBg": "player67-nobg"
-    },
-    {
-      "id": "player-068",
-      "name": "player68",
-      "image": "player68",
-      "imageNoBg": "player68-nobg"
-    },
-    {
-      "id": "player-069",
-      "name": "player69",
-      "image": "player69",
-      "imageNoBg": "player69-nobg"
-    },
-    {
-      "id": "player-070",
-      "name": "player70",
-      "image": "player70",
-      "imageNoBg": "player70-nobg"
-    },
-    {
-      "id": "player-071",
-      "name": "player71",
-      "image": "player71",
-      "imageNoBg": "player71-nobg"
-    },
-    {
-      "id": "player-072",
-      "name": "player72",
-      "image": "player72",
-      "imageNoBg": "player72-nobg"
-    },
-    {
-      "id": "player-073",
-      "name": "player73",
-      "image": "player73",
-      "imageNoBg": "player73-nobg"
-    },
-    {
-      "id": "player-074",
-      "name": "player74",
-      "image": "player74",
-      "imageNoBg": "player74-nobg"
-    },
-    {
-      "id": "player-075",
-      "name": "player75",
-      "image": "player75",
-      "imageNoBg": "player75-nobg"
-    },
-    {
-      "id": "player-076",
-      "name": "player76",
-      "image": "player76",
-      "imageNoBg": "player76-nobg"
-    },
-    {
-      "id": "player-077",
-      "name": "player77",
-      "image": "player77",
-      "imageNoBg": "player77-nobg"
-    },
-    {
-      "id": "player-078",
-      "name": "player78",
-      "image": "player78",
-      "imageNoBg": "player78-nobg"
-    },
-    {
-      "id": "player-079",
-      "name": "player79",
-      "image": "player79",
-      "imageNoBg": "player79-nobg"
-    },
-    {
-      "id": "player-080",
-      "name": "player80",
-      "image": "player80",
-      "imageNoBg": "player80-nobg"
-    },
-    {
-      "id": "player-081",
-      "name": "player81",
-      "image": "player81",
-      "imageNoBg": "player81-nobg"
-    },
-    {
-      "id": "player-082",
-      "name": "player82",
-      "image": "player82",
-      "imageNoBg": "player82-nobg"
-    },
-    {
-      "id": "player-083",
-      "name": "player83",
-      "image": "player83",
-      "imageNoBg": "player83-nobg"
-    },
-    {
-      "id": "player-084",
-      "name": "player84",
-      "image": "player84",
-      "imageNoBg": "player84-nobg"
-    },
-    {
-      "id": "player-085",
-      "name": "player85",
-      "image": "player85",
-      "imageNoBg": "player85-nobg"
-    },
-    {
-      "id": "player-086",
-      "name": "player86",
-      "image": "player86",
-      "imageNoBg": "player86-nobg"
-    },
-    {
-      "id": "player-087",
-      "name": "player87",
-      "image": "player87",
-      "imageNoBg": "player87-nobg"
-    }
-  ]
-  
+  {
+    "id": "player-001",
+    "name": "player1",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player1.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player1-nobg.png?raw=true"
+  },
+  {
+    "id": "player-002",
+    "name": "player2",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player2.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player2-nobg.png?raw=true"
+  },
+  {
+    "id": "player-003",
+    "name": "player3",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player3.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player3-nobg.png?raw=true"
+  },
+  {
+    "id": "player-004",
+    "name": "player4",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player4.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player4-nobg.png?raw=true"
+  },
+  {
+    "id": "player-005",
+    "name": "player5",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player5.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player5-nobg.png?raw=true"
+  },
+  {
+    "id": "player-006",
+    "name": "player6",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player6.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player6-nobg.png?raw=true"
+  },
+  {
+    "id": "player-007",
+    "name": "player7",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player7.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player7-nobg.png?raw=true"
+  },
+  {
+    "id": "player-008",
+    "name": "player8",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player8.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player8-nobg.png?raw=true"
+  },
+  {
+    "id": "player-009",
+    "name": "player9",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player9.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player9-nobg.png?raw=true"
+  },
+  {
+    "id": "player-010",
+    "name": "player10",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player10.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player10-nobg.png?raw=true"
+  },
+  {
+    "id": "player-011",
+    "name": "player11",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player11.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player11-nobg.png?raw=true"
+  },
+  {
+    "id": "player-012",
+    "name": "player12",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player12.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player12-nobg.png?raw=true"
+  },
+  {
+    "id": "player-013",
+    "name": "player13",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player13.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player13-nobg.png?raw=true"
+  },
+  {
+    "id": "player-014",
+    "name": "player14",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player14.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player14-nobg.png?raw=true"
+  },
+  {
+    "id": "player-015",
+    "name": "player15",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player15.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player15-nobg.png?raw=true"
+  },
+  {
+    "id": "player-016",
+    "name": "player16",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player16.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player16-nobg.png?raw=true"
+  },
+  {
+    "id": "player-017",
+    "name": "player17",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player17.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player17-nobg.png?raw=true"
+  },
+  {
+    "id": "player-018",
+    "name": "player18",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player18.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player18-nobg.png?raw=true"
+  },
+  {
+    "id": "player-019",
+    "name": "player19",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player19.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player19-nobg.png?raw=true"
+  },
+  {
+    "id": "player-020",
+    "name": "player20",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player20.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player20-nobg.png?raw=true"
+  },
+  {
+    "id": "player-021",
+    "name": "player21",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player21.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player21-nobg.png?raw=true"
+  },
+  {
+    "id": "player-022",
+    "name": "player22",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player22.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player22-nobg.png?raw=true"
+  },
+  {
+    "id": "player-023",
+    "name": "player23",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player23.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player23-nobg.png?raw=true"
+  },
+  {
+    "id": "player-024",
+    "name": "player24",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player24.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player24-nobg.png?raw=true"
+  },
+  {
+    "id": "player-025",
+    "name": "player25",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player25.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player25-nobg.png?raw=true"
+  },
+  {
+    "id": "player-026",
+    "name": "player26",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player26.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player26-nobg.png?raw=true"
+  },
+  {
+    "id": "player-027",
+    "name": "player27",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player27.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player27-nobg.png?raw=true"
+  },
+  {
+    "id": "player-028",
+    "name": "player28",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player28.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player28-nobg.png?raw=true"
+  },
+  {
+    "id": "player-029",
+    "name": "player29",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player29.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player29-nobg.png?raw=true"
+  },
+  {
+    "id": "player-030",
+    "name": "player30",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player30.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player30-nobg.png?raw=true"
+  },
+  {
+    "id": "player-031",
+    "name": "player31",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player31.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player31-nobg.png?raw=true"
+  },
+  {
+    "id": "player-032",
+    "name": "player32",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player32.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player32-nobg.png?raw=true"
+  },
+  {
+    "id": "player-033",
+    "name": "player33",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player33.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player33-nobg.png?raw=true"
+  },
+  {
+    "id": "player-034",
+    "name": "player34",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player34.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player34-nobg.png?raw=true"
+  },
+  {
+    "id": "player-035",
+    "name": "player35",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player35.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player35-nobg.png?raw=true"
+  },
+  {
+    "id": "player-036",
+    "name": "player36",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player36.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player36-nobg.png?raw=true"
+  },
+  {
+    "id": "player-037",
+    "name": "player37",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player37.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player37-nobg.png?raw=true"
+  },
+  {
+    "id": "player-038",
+    "name": "player38",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player38.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player38-nobg.png?raw=true"
+  },
+  {
+    "id": "player-039",
+    "name": "player39",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player39.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player39-nobg.png?raw=true"
+  },
+  {
+    "id": "player-040",
+    "name": "player40",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player40.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player40-nobg.png?raw=true"
+  },
+  {
+    "id": "player-041",
+    "name": "player41",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player41.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player41-nobg.png?raw=true"
+  },
+  {
+    "id": "player-042",
+    "name": "player42",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player42.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player42-nobg.png?raw=true"
+  },
+  {
+    "id": "player-043",
+    "name": "player43",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player43.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player43-nobg.png?raw=true"
+  },
+  {
+    "id": "player-044",
+    "name": "player44",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player44.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player44-nobg.png?raw=true"
+  },
+  {
+    "id": "player-045",
+    "name": "player45",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player45.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player45-nobg.png?raw=true"
+  },
+  {
+    "id": "player-046",
+    "name": "player46",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player46.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player46-nobg.png?raw=true"
+  },
+  {
+    "id": "player-047",
+    "name": "player47",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player47.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player47-nobg.png?raw=true"
+  },
+  {
+    "id": "player-048",
+    "name": "player48",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player48.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player48-nobg.png?raw=true"
+  },
+  {
+    "id": "player-049",
+    "name": "player49",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player49.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player49-nobg.png?raw=true"
+  },
+  {
+    "id": "player-050",
+    "name": "player50",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player50.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player50-nobg.png?raw=true"
+  },
+  {
+    "id": "player-051",
+    "name": "player51",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player51.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player51-nobg.png?raw=true"
+  },
+  {
+    "id": "player-052",
+    "name": "player52",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player52.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player52-nobg.png?raw=true"
+  },
+  {
+    "id": "player-053",
+    "name": "player53",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player53.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player53-nobg.png?raw=true"
+  },
+  {
+    "id": "player-054",
+    "name": "player54",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player54.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player54-nobg.png?raw=true"
+  },
+  {
+    "id": "player-055",
+    "name": "player55",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player55.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player55-nobg.png?raw=true"
+  },
+  {
+    "id": "player-056",
+    "name": "player56",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player56.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player56-nobg.png?raw=true"
+  },
+  {
+    "id": "player-057",
+    "name": "player57",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player57.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player57-nobg.png?raw=true"
+  },
+  {
+    "id": "player-058",
+    "name": "player58",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player58.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player58-nobg.png?raw=true"
+  },
+  {
+    "id": "player-059",
+    "name": "player59",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player59.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player59-nobg.png?raw=true"
+  },
+  {
+    "id": "player-060",
+    "name": "player60",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player60.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player60-nobg.png?raw=true"
+  },
+  {
+    "id": "player-061",
+    "name": "player61",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player61.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player61-nobg.png?raw=true"
+  },
+  {
+    "id": "player-062",
+    "name": "player62",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player62.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player62-nobg.png?raw=true"
+  },
+  {
+    "id": "player-063",
+    "name": "player63",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player63.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player63-nobg.png?raw=true"
+  },
+  {
+    "id": "player-064",
+    "name": "player64",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player64.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player64-nobg.png?raw=true"
+  },
+  {
+    "id": "player-065",
+    "name": "player65",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player65.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player65-nobg.png?raw=true"
+  },
+  {
+    "id": "player-066",
+    "name": "player66",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player66.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player66-nobg.png?raw=true"
+  },
+  {
+    "id": "player-067",
+    "name": "player67",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player67.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player67-nobg.png?raw=true"
+  },
+  {
+    "id": "player-068",
+    "name": "player68",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player68.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player68-nobg.png?raw=true"
+  },
+  {
+    "id": "player-069",
+    "name": "player69",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player69.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player69-nobg.png?raw=true"
+  },
+  {
+    "id": "player-070",
+    "name": "player70",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player70.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player70-nobg.png?raw=true"
+  },
+  {
+    "id": "player-071",
+    "name": "player71",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player71.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player71-nobg.png?raw=true"
+  },
+  {
+    "id": "player-072",
+    "name": "player72",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player72.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player72-nobg.png?raw=true"
+  },
+  {
+    "id": "player-073",
+    "name": "player73",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player73.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player73-nobg.png?raw=true"
+  },
+  {
+    "id": "player-074",
+    "name": "player74",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player74.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player74-nobg.png?raw=true"
+  },
+  {
+    "id": "player-075",
+    "name": "player75",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player75.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player75-nobg.png?raw=true"
+  },
+  {
+    "id": "player-076",
+    "name": "player76",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player76.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player76-nobg.png?raw=true"
+  },
+  {
+    "id": "player-077",
+    "name": "player77",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player77.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player77-nobg.png?raw=true"
+  },
+  {
+    "id": "player-078",
+    "name": "player78",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player78.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player78-nobg.png?raw=true"
+  },
+  {
+    "id": "player-079",
+    "name": "player79",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player79.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player79-nobg.png?raw=true"
+  },
+  {
+    "id": "player-080",
+    "name": "player80",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player80.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player80-nobg.png?raw=true"
+  },
+  {
+    "id": "player-081",
+    "name": "player81",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player81.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player81-nobg.png?raw=true"
+  },
+  {
+    "id": "player-082",
+    "name": "player82",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player82.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player82-nobg.png?raw=true"
+  },
+  {
+    "id": "player-083",
+    "name": "player83",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player83.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player83-nobg.png?raw=true"
+  },
+  {
+    "id": "player-084",
+    "name": "player84",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player84.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player84-nobg.png?raw=true"
+  },
+  {
+    "id": "player-085",
+    "name": "player85",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player85.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player85-nobg.png?raw=true"
+  },
+  {
+    "id": "player-086",
+    "name": "player86",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player86.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player86-nobg.png?raw=true"
+  },
+  {
+    "id": "player-087",
+    "name": "player87",
+    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player87.png?raw=true",
+    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player87-nobg.png?raw=true"
+  }
+]
