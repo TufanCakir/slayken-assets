@@ -1,5 +1,6 @@
 {
     "songs": [
+      { "title": "Screams from the Abyss", "filename": "Screams from the Abyss.mp3" },
       { "title": "Awakening Shadows", "filename": "Awakening Shadows.mp3" },
       { "title": "Celestial Nightfall", "filename": "Celestial Nightfall.mp3" },
       { "title": "Crimson Echoes", "filename": "Crimson Echoes.mp3" },
@@ -17,7 +18,6 @@
       { "title": "Lost Horizons", "filename": "Lost Horizons.mp3" },
       { "title": "Lurking Shadows", "filename": "Lurking Shadows.mp3" },
       { "title": "Phantom Lights", "filename": "Phantom Lights.mp3" },
-      { "title": "Screams from the Abyss", "filename": "Screams from the Abyss.mp3" },
       { "title": "Shadows and Screams", "filename": "Shadows and Screams.mp3" },
       { "title": "Shattered Dreams", "filename": "Shattered Dreams.mp3" },
       { "title": "Veil of Despair", "filename": "Veil of Despair.mp3" },
