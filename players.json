@@ -58,41 +58,5 @@
     "name": "player10",
     "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player10.png?raw=true",
     "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player10-nobg.png?raw=true"
-  },
-  {
-    "id": "player-011",
-    "name": "player11",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player11.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player11-nobg.png?raw=true"
-  },
-  {
-    "id": "player-012",
-    "name": "player12",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player12.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player12-nobg.png?raw=true"
-  },
-  {
-    "id": "player-013",
-    "name": "player13",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player13.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player13-nobg.png?raw=true"
-  },
-  {
-    "id": "player-014",
-    "name": "player14",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player14.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player14-nobg.png?raw=true"
-  },
-  {
-    "id": "player-015",
-    "name": "player15",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player15.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player15-nobg.png?raw=true"
-  },
-  {
-    "id": "player-016",
-    "name": "player16",
-    "image": "https://github.com/TufanCakir/slayken-assets/blob/main/players/withBackground/player16.png?raw=true",
-    "imageNoBg": "https://github.com/TufanCakir/slayken-assets/blob/main/players/noBackground/player16-nobg.png?raw=true"
   }
 ]
