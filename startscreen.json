@@ -1,7 +1,7 @@
 [
   {
-    "id": "startscreen-001",
-    "name": "startscreen",
-    "image": "https://raw.githubusercontent.com/TufanCakir/slayken-assets/main/backgrounds/startscreen.png"
+    "id": "background-001",
+    "name": "background",
+    "image": "https://raw.githubusercontent.com/TufanCakir/slayken-assets/main/backgrounds/background.png"
   }
 ]
